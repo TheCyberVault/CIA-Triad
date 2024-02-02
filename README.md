@@ -1,6 +1,4 @@
-# Nmap Project
-
-Welcome to the Nmap (Network Mapper) GitHub repository. Nmap is a powerful and versatile tool for network discovery and security auditing. Widely used by both professionals in cybersecurity and students embarking on their network security journey, Nmap provides valuable insights into network environments.
+# Nmap
 
 ## Overview
 
