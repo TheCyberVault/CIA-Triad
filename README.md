@@ -1,7 +1,5 @@
 # CIA Triad in Cybersecurity
 
-Welcome to our repository dedicated to exploring the CIA (Confidentiality, Integrity, Availability) Triad, the cornerstone of cybersecurity principles. This project aims to educate, provide resources, and foster a community around the importance of safeguarding information in the digital age.
-
 ## What is the CIA Triad?
 
 The CIA Triad is a widely respected model in the field of information security, guiding policies and procedures to protect data from unauthorized access and use. The triad consists of three fundamental principles:
