@@ -1,11 +1,12 @@
 # CIA Triad 
 
 
-![CIA Triad Infographic](https://github.com/TheCyberVault/CIA-Triad/assets/141572056/c40705a1-faa7-49bf-acdc-4e7aa7a9f3ec)
+![CIA Triad Infographic](https://github.com/TheCyberVault/CIA-Triad/assets/141572056/37d0f397-2602-40f1-86f4-543f0b753b0a)
 
 
 
-## What is the CIA Triad?
+
+   ## What is the CIA Triad?
 
 The CIA Triad is a widely respected model in the field of information security, guiding policies and procedures to protect data from unauthorized access and use. The triad consists of three fundamental principles:
 
