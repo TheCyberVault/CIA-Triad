@@ -10,30 +10,25 @@
 The CIA Triad is a widely respected model in the field of information security, guiding policies and procedures to protect data from unauthorized access and use. The triad consists of three fundamental principles:
 
 ## Confidentiality
-  ***Ensuring that sensitive information is accessed only by authorized individuals and remains private.***
+  ***Prevents the unauthorized disclosure of data.***
   
-  - **Data Encryption**: Ensuring that data is unreadable to unauthorized individuals, even if they manage to access it.
-  - **Access Controls**: Implementing permission systems so that only authorized individuals can access certain data. This includes physical access controls to hardware and facilities, as well as logical controls like user accounts and passwords.
-  - **Data Classification**: Categorizing data based on sensitivity and implementing corresponding security controls.
-
+  - **Data Encryption**: Scrambles data to make it unreadable by unauthroized personnel.
+  - **Access Controls**: Identification, authentication, and authorization provide access controls and help ensure that only authorized personnel can access data.
 
 
 ## Integrity 
 
-  ***Maintaining the accuracy and completeness of data, ensuring that it is not altered by unauthorized parties.***
+  ***Provides assurance the data has not changed.***
 
 - **Hashing**: Using hash functions to ensure that data has not been tampered with. A change in the data, even a minor one, results in a completely different hash value.
-- **Digital Signatures**: Providing a means to verify that a message has been authored by a known sender and has not been altered.
-- **Version Control**: Keeping track of changes to documents and data to prevent unauthorized alteration and ensure that only the most recent and accurate data is used Maintaining the accuracy and completeness of data, ensuring that it is not altered by unauthorized parties.
-
 
 ## Availability
 
 ***Ensuring that information and resources are available to authorized users when needed.***
 
-- **Redundancy**: Duplicating critical components or functions of a system that would be a single point of failure.
-- **Failover**: The process by which a secondary system becomes active when the primary system fails, ensuring service continuity.
-- **Backup and Recovery**: Regularly backing up data and having effective disaster recovery plans in place to restore any lost data. Ensuring that information and resources are available to authorized users when needed.
+- **Redundancy/Fault Tolerance**: Adds duplication to critical systems and provides fault tolerance, eliminating single point of failures.
+- **Scalability and Elasticity**: Allows systems to scale up by addidng additional hardware resources such as memory, processing power, bandwith capability, and/or drive space.
+- **Patching**: Ensures systems stay up to date with the most current patches.
 
 ## Why is the CIA Triad Important?
 
